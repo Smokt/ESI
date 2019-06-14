@@ -9,6 +9,6 @@ Participants:
 
 ## TODO
 - [x] Práctica 01
-- [ ] Práctica 02
+- [x] Práctica 02
 
 
